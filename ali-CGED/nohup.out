@@ -1,0 +1,7002 @@
+(Variable containing:
+ 24947.0234
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-M,O
+
+(Variable containing:
+ 20144.8086
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-M,O
+
+(Variable containing:
+ 6721.1182
+[torch.FloatTensor of size 1]
+, [0, 0, 0])
+.......
+O,B-M,O
+
+(Variable containing:
+ 25218.3301
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-M,I-M,O,O,O,O
+
+(Variable containing:
+ 30608.8965
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,B-M,O,O
+
+(Variable containing:
+ 46999.1602
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-M,O,O
+
+(Variable containing:
+ 33355.7500
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,B-M,O
+
+(Variable containing:
+ 17114.6836
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-M,O,O
+
+(Variable containing:
+ 33084.7500
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-M,O,O,O,O,O
+
+(Variable containing:
+ 47435.5195
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,B-M,O,O,O,O,O,O,O
+
+(Variable containing:
+ 27384.6035
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-M,O,O,O
+
+(Variable containing:
+ 46889.2656
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 48593.2500
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 30656.5508
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 20130.1230
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-M,O,O
+
+(Variable containing:
+ 14227.0693
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O
+
+(Variable containing:
+ 12098.5664
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0])
+.......
+O,O,O,B-M,O
+
+(Variable containing:
+ 30594.6504
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-M,O,O,O
+
+(Variable containing:
+ 54705.1523
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-M,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 34976.9609
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-M,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 30961.8379
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,B-M,O,O
+
+(Variable containing:
+ 27965.7656
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-M,O,O
+
+(Variable containing:
+ 27775.6250
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-M,O,O,O,O,O,O
+
+(Variable containing:
+ 27328.0312
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-M,O,O
+
+(Variable containing:
+ 30502.9688
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-M,O,O,O,O,O
+
+(Variable containing:
+ 24674.9102
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-M,O,O,O
+
+(Variable containing:
+ 48675.8320
+[torch.FloatTensor of size 1]
+, [7, 8, 8, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,B-M,O,O,O,O,O,O
+
+(Variable containing:
+ 30492.3398
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-M,O,O,O,O,O,O
+
+(Variable containing:
+ 24880.1934
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-M,O,O
+
+(Variable containing:
+ 30635.2461
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,B-M
+
+(Variable containing:
+ 37854.3711
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,B-M,O,O
+
+(Variable containing:
+ 38158.3945
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-M,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 17202.8750
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-M,O
+
+(Variable containing:
+ 11727.6084
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0])
+.......
+O,O,O,B-M,O
+
+(Variable containing:
+ 22157.5234
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-M,O
+
+(Variable containing:
+ 17033.7188
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-M,O
+
+(Variable containing:
+ 27743.4531
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,B-M,O
+
+(Variable containing:
+ 17299.5391
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-M
+
+(Variable containing:
+ 12123.1484
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0])
+.......
+O,O,O,B-M,O
+
+(Variable containing:
+ 27956.7773
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 7, 8, 8, 8, 8, 8, 8, 8])
+.......
+O,O,O,O,O,O,O,O,O,B-M,O
+
+(Variable containing:
+ 25385.1250
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-M,O
+
+(Variable containing:
+ 19900.2773
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-M,O
+
+(Variable containing:
+ 17217.7500
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-M,O
+
+(Variable containing:
+ 25371.6094
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,B-M
+
+(Variable containing:
+ 22881.6602
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-M,O
+
+(Variable containing:
+ 28106.8809
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,B-M
+
+(Variable containing:
+ 25308.1465
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 27956.8691
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-M,O,O,O
+
+(Variable containing:
+ 32834.3672
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,B-M,O,O,O
+
+(Variable containing:
+ 27571.2266
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-M,O,O
+
+(Variable containing:
+ 30690.3379
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-M,I-M,O,O,O,O,O
+
+(Variable containing:
+ 25227.6230
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-M,O,O,O,O,O
+
+(Variable containing:
+ 11919.0723
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0])
+.......
+O,O,O,O,O
+
+(Variable containing:
+ 25053.0137
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-M,I-M
+
+(Variable containing:
+ 27930.8125
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 40630.7539
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-M,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 14626.1035
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-M
+
+(Variable containing:
+ 17115.3750
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O
+
+(Variable containing:
+ 30665.2793
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-M,O,O,O,O,O,O
+
+(Variable containing:
+ 33399.4062
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-M,I-M,O,O,O
+
+(Variable containing:
+ 14555.8203
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O
+
+(Variable containing:
+ 27690.5117
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-M,I-M,I-M,O,O
+
+(Variable containing:
+ 30617.5410
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 22475.9863
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-M
+
+(Variable containing:
+ 38261.9219
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,B-M,I-M,O,O
+
+(Variable containing:
+ 22772.4102
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 7, 8, 8])
+.......
+O,O,O,B-M,O,O,O,O,O
+
+(Variable containing:
+ 38064.5508
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-M,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 33090.2422
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-M,O,O,O,O,O,O
+
+(Variable containing:
+ 20016.3633
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 11700.3154
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0])
+.......
+O,O,O,O,O
+
+(Variable containing:
+ 20110.7578
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-M,O,O,O,O
+
+(Variable containing:
+ 35956.1484
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-M,I-M,O,O,O,O
+
+(Variable containing:
+ 40752.0195
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-M,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 32760.8516
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-M,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 38551.5156
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,B-M,O,O
+
+(Variable containing:
+ 54555.4883
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-M,I-M,O,O,O
+
+(Variable containing:
+ 19604.8984
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-M,O,O
+
+(Variable containing:
+ 43827.6641
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,B-M,O,O,O
+
+(Variable containing:
+ 40979.8359
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-M,O,O,O,O,O,O,O
+
+(Variable containing:
+ 35230.1055
+[torch.FloatTensor of size 1]
+, [7, 8, 8, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,B-M,O,O,O,O
+
+(Variable containing:
+ 46441.0273
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-M,O,O,O
+
+(Variable containing:
+ 32936.1875
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,B-M,I-M,O,O
+
+(Variable containing:
+ 67505.4297
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-M,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 30789.7852
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-M,O,O,O
+
+(Variable containing:
+ 39008.0156
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,B-M,O
+
+(Variable containing:
+ 17495.6953
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-M,O,O,O
+
+(Variable containing:
+ 33653.7695
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,B-M,O
+
+(Variable containing:
+ 30601.0938
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 7, 8, 8, 8, 8, 8, 8, 8])
+.......
+O,O,O,O,O,O,O,O,O,B-M,O,O
+
+(Variable containing:
+ 38505.6172
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+B-M,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 25290.4980
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-M,O,O,O,O,O,O
+
+(Variable containing:
+ 27884.2539
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-M,O,O,O,O,O,O,O
+
+(Variable containing:
+ 36167.8906
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,B-M,O,O
+
+(Variable containing:
+ 16822.2305
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-M,O,O,O,O,O
+
+(Variable containing:
+ 19715.9805
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-M,O,O,O,O,O
+
+(Variable containing:
+ 30714.6504
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,B-M,O,O
+
+(Variable containing:
+ 14159.8584
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0])
+.......
+O,O,B-M,O,O,O
+
+(Variable containing:
+ 35265.3945
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-M,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 37665.5391
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,B-M,O,O,O,O,O
+
+(Variable containing:
+ 25466.3027
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-M,I-M,O
+
+(Variable containing:
+ 9290.5957
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0])
+.......
+O,O,B-M,O
+
+(Variable containing:
+ 33222.1953
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-M,I-M,O,O,O,O
+
+(Variable containing:
+ 28241.1660
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-M,O,O,O,O
+
+(Variable containing:
+ 32873.3906
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 27647.4902
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 9413.7822
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0])
+.......
+O,O,O,O
+
+(Variable containing:
+ 33637.9609
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-M,O,O,O,O,O,O
+
+(Variable containing:
+ 25641.3867
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-M,O,O,O,O,O
+
+(Variable containing:
+ 30476.2500
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-M,O,O,O
+
+(Variable containing:
+ 20001.2109
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-M,O,O,O
+
+(Variable containing:
+ 27603.4453
+[torch.FloatTensor of size 1]
+, [7, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8])
+.......
+O,O,O,O,O,O,O,O,O,B-M,O
+
+(Variable containing:
+ 25051.9531
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-M,O,O,O
+
+(Variable containing:
+ 46872.9023
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 38611.1211
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,B-M,O,O,O
+
+(Variable containing:
+ 11640.5000
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0])
+.......
+O,O,O,O,O
+
+(Variable containing:
+ 33021.9961
+[torch.FloatTensor of size 1]
+, [7, 8, 8, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 22746.1523
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 43384.7812
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,B-M,O,O,O,O,O,O
+
+(Variable containing:
+ 33512.3125
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,B-M,O,O,O
+
+(Variable containing:
+ 22290.2090
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-M,O,O,O
+
+(Variable containing:
+ 43785.3516
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-M,O
+
+(Variable containing:
+ 35492.1055
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-M,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 24994.7637
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-M,O,O,O,O,O
+
+(Variable containing:
+ 13989.4219
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-M,O,O
+
+(Variable containing:
+ 33173.4531
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,B-M,O,O,O
+
+(Variable containing:
+ 14323.8027
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-M,O,O
+
+(Variable containing:
+ 33340.4570
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-M,O,O,O,O
+
+(Variable containing:
+ 41537.9062
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,B-M,I-M,O,O,O,O,O
+
+(Variable containing:
+ 46022.5547
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-M,I-M,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 30829.6816
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-M,I-M,O,O,O,O
+
+(Variable containing:
+ 22541.5371
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-M,I-M,O,O
+
+(Variable containing:
+ 62859.9570
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 8, 8, 8, 8])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-M,O
+
+(Variable containing:
+ 57549.8789
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-M,O,O,O
+
+(Variable containing:
+ 22883.9023
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-M,O,O,O,O,O
+
+(Variable containing:
+ 30312.5234
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+B-M,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 44298.3125
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-M,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 37802.9492
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-M,O,O,O,O,O,O
+
+(Variable containing:
+ 20143.2109
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-M,O,O,O,O,O
+
+(Variable containing:
+ 17243.2285
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-M,O,O,O,O
+
+(Variable containing:
+ 19809.3457
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-M,O,O,O,O,O
+
+(Variable containing:
+ 30009.1914
+[torch.FloatTensor of size 1]
+, [7, 8, 8, 8, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-M,O,O,O,O,O
+
+(Variable containing:
+ 43664.6484
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 7, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8])
+.......
+O,O,O,B-M,O,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 35616.9180
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,B-M
+
+(Variable containing:
+ 35115.3359
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-M,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 35697.4297
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,B-M,O,O,O
+
+(Variable containing:
+ 16927.5371
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-M,O,O,O
+
+(Variable containing:
+ 53489.7812
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-M,I-M,O
+
+(Variable containing:
+ 44175.1289
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-M,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 27538.2246
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-M,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 25391.1855
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-M,O,O,O
+
+(Variable containing:
+ 41212.4609
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,B-M,O,O,O,O,O
+
+(Variable containing:
+ 46835.3086
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 8, 8, 8, 8])
+.......
+O,O,B-M,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 46234.4688
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-M,O,O,O
+
+(Variable containing:
+ 22490.2520
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 35856.5352
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,B-M,O
+
+(Variable containing:
+ 51308.5742
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-M,O,O,O,O
+
+(Variable containing:
+ 40957.8906
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-M,O
+
+(Variable containing:
+ 27485.8359
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,B-M,O
+
+(Variable containing:
+ 33676.0938
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-M,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 63771.9023
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-M,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 17399.9375
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-M,O
+
+(Variable containing:
+ 25446.0703
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-M,O
+
+(Variable containing:
+ 22489.1367
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-M,O,O,O,O,O,O,O
+
+(Variable containing:
+ 24963.4863
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-M,O,O,O
+
+(Variable containing:
+ 27363.2617
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,B-M,O
+
+(Variable containing:
+ 33566.7734
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-M,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 53347.2422
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 7, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-M,O,O,O,O
+
+(Variable containing:
+ 30416.0625
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-M,O,O,O
+
+(Variable containing:
+ 24772.1699
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-M,O,O,O,O,O
+
+(Variable containing:
+ 22544.8301
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-M,O
+
+(Variable containing:
+ 49350.1680
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-M,O,O
+
+(Variable containing:
+ 32369.4375
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-M,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 49386.6094
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-M,O,O,O
+
+(Variable containing:
+ 38093.2812
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-M,O,O,O,O,O,O,O
+
+(Variable containing:
+ 19737.0449
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-M,O,O
+
+(Variable containing:
+ 46630.3359
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,B-M,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 40656.0781
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,B-M,O,O,O,O
+
+(Variable containing:
+ 19791.4824
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-M,O,O,O
+
+(Variable containing:
+ 35423.8672
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-M,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 30732.1719
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-M,O,O,O,O,O,O
+
+(Variable containing:
+ 52225.5312
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-M,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 32803.0625
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 7, 8, 8, 8, 8, 8, 8, 8, 8, 8])
+.......
+O,O,O,O,B-M,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 33938.8594
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-M,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 33682.9961
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,B-M,O,O
+
+(Variable containing:
+ 27789.6016
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,B-M,O
+
+(Variable containing:
+ 32901.8555
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,B-M,O
+
+(Variable containing:
+ 17176.7637
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-M,O,O,O,O
+
+(Variable containing:
+ 9178.2627
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0])
+.......
+O,O,O,O
+
+(Variable containing:
+ 38042.9844
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,B-M,I-M,O,O
+
+(Variable containing:
+ 53774.8711
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-M,I-M,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 19450.7500
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-M,I-M
+
+(Variable containing:
+ 38440.4531
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,B-M,I-M,O,O
+
+(Variable containing:
+ 17221.7227
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0])
+.......
+B-M,O,O,O,O,O,O
+
+(Variable containing:
+ 24930.9375
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-M,I-M,O,O,O
+
+(Variable containing:
+ 39977.5391
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-M,I-M,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 28285.4746
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 19702.7324
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 52118.3906
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,B-M,I-M,I-M,O,O,O,O
+
+(Variable containing:
+ 27615.6895
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 25150.2461
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 38312.0508
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 45915.9766
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 83272.9766
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-M,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 30232.4531
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-M,I-M,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 35458.2539
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 8, 8, 8])
+.......
+O,O,O,O,O,O,B-M,O,O,O,O,O,O,O
+
+(Variable containing:
+ 62065.1602
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,B-M,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 22412.0977
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 24794.1133
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-M,I-M,O,O,O,O,O,O
+
+(Variable containing:
+ 38524.7227
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 38884.8555
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,B-M,O
+
+(Variable containing:
+ 25838.1309
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 75843.6016
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-M,I-M,O,O,O,O,O
+
+(Variable containing:
+ 68509.8516
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-M
+
+(Variable containing:
+ 33594.3828
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,B-M,I-M
+
+(Variable containing:
+ 17141.3828
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O
+
+(Variable containing:
+ 43044.9062
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-M
+
+(Variable containing:
+ 27761.8750
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,B-M,I-M
+
+(Variable containing:
+ 41561.6172
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 30185.1719
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-M,I-M,O,O,O,O,O,O
+
+(Variable containing:
+ 56883.9883
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-M,O
+
+(Variable containing:
+ 19444.9922
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-M,I-M,O
+
+(Variable containing:
+ 35342.9219
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 54310.5664
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 38867.1836
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,B-M,O,O,O,O
+
+(Variable containing:
+ 25383.8730
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-M,O,O
+
+(Variable containing:
+ 28104.8555
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 27581.4434
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,B-M,I-M
+
+(Variable containing:
+ 17076.3105
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-M,O,O,O
+
+(Variable containing:
+ 29537.2285
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-M,I-M,O,O
+
+(Variable containing:
+ 11900.8975
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0])
+.......
+O,O,O,O,O
+
+(Variable containing:
+ 22808.6875
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-M,I-M,O,O,O
+
+(Variable containing:
+ 38850.5625
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 19538.2734
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 32688.2207
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 41256.6250
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 29898.4082
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-M,I-M,I-M,O
+
+(Variable containing:
+ 35686.9766
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-R,O,O,O,O,O,O
+
+(Variable containing:
+ 51270.1055
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-R,I-R,O,O,O,O
+
+(Variable containing:
+ 38726.8398
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-R,O,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 20090.2188
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-R,O,O,O,O,O
+
+(Variable containing:
+ 27587.4570
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-R,O,O,O,O,O
+
+(Variable containing:
+ 30175.6133
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-R,I-R,O,O,O,O,O,O,O
+
+(Variable containing:
+ 35864.2148
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,B-R,O,O
+
+(Variable containing:
+ 28215.0625
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-R,O,O
+
+(Variable containing:
+ 9300.8252
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0])
+.......
+O,B-R,O,O
+
+(Variable containing:
+ 38161.4023
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,B-R,I-R,O,O
+
+(Variable containing:
+ 49100.7891
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-R,I-R,I-R,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 30292.3359
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,B-R
+
+(Variable containing:
+ 16523.4648
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-R
+
+(Variable containing:
+ 35595.1562
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-R,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 38305.8281
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-R,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 48479.7891
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-R
+
+(Variable containing:
+ 22340.7168
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-R
+
+(Variable containing:
+ 52253.3203
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-R,O,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 33400.3477
+[torch.FloatTensor of size 1]
+, [0, 0, 7, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,B-R
+
+(Variable containing:
+ 41269.2656
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-R,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 20280.4512
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-R
+
+(Variable containing:
+ 25534.4355
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,B-R
+
+(Variable containing:
+ 19773.8047
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-R,O,O,O
+
+(Variable containing:
+ 38634.4883
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-R
+
+(Variable containing:
+ 43745.3789
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-R,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 37669.3711
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-R,O,O,O,O,O,O
+
+(Variable containing:
+ 46134.0430
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-R,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 20033.9199
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-R
+
+(Variable containing:
+ 27170.0293
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,B-R
+
+(Variable containing:
+ 32972.2656
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-R,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 30402.0977
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-R,O,O,O,O,O,O,O
+
+(Variable containing:
+ 58995.7148
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-R,O,O,O,O,O,O,O
+
+(Variable containing:
+ 64907.7852
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-R,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 27660.4824
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,B-R
+
+(Variable containing:
+ 43738.6055
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-R
+
+(Variable containing:
+ 40815.7500
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-R,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 38542.3008
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-R,I-R,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 19426.9062
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-R,O,O,O
+
+(Variable containing:
+ 27404.4141
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-R,I-R,O,O,O,O,O,O
+
+(Variable containing:
+ 14381.5518
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-R,O,O
+
+(Variable containing:
+ 43646.8750
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 7, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8])
+.......
+O,O,O,O,O,O,O,O,O,O,B-R,I-R,O,O,O,O,O
+
+(Variable containing:
+ 19386.9941
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-R,O,O,O,O,O,O
+
+(Variable containing:
+ 25190.3555
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-R,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 17285.8418
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 7, 8, 8, 8])
+.......
+O,O,O,O,O,B-R,O
+
+(Variable containing:
+ 22805.4316
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-R,O
+
+(Variable containing:
+ 27994.8086
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-R,O,O,O
+
+(Variable containing:
+ 25588.9121
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-R,O,O,O,O
+
+(Variable containing:
+ 35948.2695
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-R,O,O,O,O,O
+
+(Variable containing:
+ 30596.0762
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-R,I-R,O,O,O
+
+(Variable containing:
+ 46240.3711
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-R,O,O,O
+
+(Variable containing:
+ 35705.7500
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,B-R,O,O
+
+(Variable containing:
+ 22269.7090
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-R,O,O,O,O,O,O
+
+(Variable containing:
+ 48685.2539
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-R,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 41235.7891
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-R,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 36305.2617
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-R,O,O,O,O,O
+
+(Variable containing:
+ 33892.6562
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-R,I-R,O,O,O,O,O,O
+
+(Variable containing:
+ 57474.4219
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+B-R,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 33132.3828
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-R,I-R,O,O,O,O,O
+
+(Variable containing:
+ 25075.2734
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-R,I-R,O,O,O,O,O,O,O
+
+(Variable containing:
+ 32817.3594
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-R,O,O,O,O,O,O
+
+(Variable containing:
+ 19708.9570
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-R,O,O,O,O,O,O
+
+(Variable containing:
+ 14798.3770
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0])
+.......
+O,O,B-R,O,O,O
+
+(Variable containing:
+ 25190.5391
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-R,O,O
+
+(Variable containing:
+ 35830.9062
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-R,O,O,O,O,O
+
+(Variable containing:
+ 32721.7852
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-R,O,O,O,O,O,O,O
+
+(Variable containing:
+ 27605.6230
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,B-R,O
+
+(Variable containing:
+ 33341.1602
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-R,I-R,I-R,O,O,O,O
+
+(Variable containing:
+ 25417.9395
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-R,O,O,O,O
+
+(Variable containing:
+ 35606.4141
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-R,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 38956.1914
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,B-R,O,O,O,O,O
+
+(Variable containing:
+ 33202.8242
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-R,O,O,O,O
+
+(Variable containing:
+ 38192.8242
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,B-R,I-R,O
+
+(Variable containing:
+ 30691.8145
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-R,O,O,O
+
+(Variable containing:
+ 33029.6367
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-R,O,O,O,O,O,O,O
+
+(Variable containing:
+ 19800.9746
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-R,O,O,O,O
+
+(Variable containing:
+ 32778.8984
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,B-R,O
+
+(Variable containing:
+ 22780.8926
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-R
+
+(Variable containing:
+ 14494.3799
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-R
+
+(Variable containing:
+ 22419.7969
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-R,I-R,O,O,O,O,O
+
+(Variable containing:
+ 43241.1953
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-R,O,O
+
+(Variable containing:
+ 35299.6797
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-R,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 38253.0664
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 8, 8, 8])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,B-R,O
+
+(Variable containing:
+ 27261.8594
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-R,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 43756.0078
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,B-R,O,O,O
+
+(Variable containing:
+ 30365
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-R,I-R,O,O,O
+
+(Variable containing:
+ 24750.5703
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-R,O,O
+
+(Variable containing:
+ 22232.2422
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-R,O,O,O,O,O
+
+(Variable containing:
+ 35878.2695
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-R,I-R,O,O,O,O
+
+(Variable containing:
+ 22874.4609
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-R,I-R,O,O,O
+
+(Variable containing:
+ 30273.4121
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-R,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 19725.2910
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-R,O,O,O,O,O
+
+(Variable containing:
+ 43435.5742
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-R,I-R,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 33459.2695
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-R,O,O,O,O,O,O
+
+(Variable containing:
+ 36092.7656
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,B-R,I-R,O,O
+
+(Variable containing:
+ 27837.5215
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-R,O,O,O,O,O,O,O
+
+(Variable containing:
+ 33116.2070
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-R,O,O,O,O,O
+
+(Variable containing:
+ 24530.7051
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-R,I-R
+
+(Variable containing:
+ 24976.4668
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 7, 8, 8])
+.......
+B-R,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 22374.4688
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-R,O,O
+
+(Variable containing:
+ 19511.5508
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-R,O,O,O,O,O
+
+(Variable containing:
+ 24774.5527
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-R,I-R,O,O,O,O,O,O
+
+(Variable containing:
+ 25307.5645
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-R,O,O,O,O,O,O
+
+(Variable containing:
+ 44063.6719
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-R,I-R,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 33324.3555
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-R,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 57340.1797
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-R,O,O,O,O,O,O,O
+
+(Variable containing:
+ 52061.4688
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-R,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 38597.7422
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-R,I-R,O,O,O,O,O
+
+(Variable containing:
+ 17179.2500
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-R,I-R,O,O,O,O
+
+(Variable containing:
+ 25179.0859
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-R,O,O,O,O,O,O
+
+(Variable containing:
+ 41011.1875
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,B-R,I-R,I-R,O,O
+
+(Variable containing:
+ 19442.2129
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-R,O,O,O,O,O
+
+(Variable containing:
+ 36027.7227
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-R,O,O,O,O,O
+
+(Variable containing:
+ 40422.6680
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-R,O,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 19634.2637
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-R
+
+(Variable containing:
+ 25109.7930
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-R,O,O,O,O
+
+(Variable containing:
+ 46560.7070
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,B-R,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 22577.8203
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-R,O,O,O,O,O,O
+
+(Variable containing:
+ 32813.7695
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,B-R
+
+(Variable containing:
+ 49329.1836
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-R,O,O,O,O
+
+(Variable containing:
+ 52365.3633
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-R,O,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 40948.4141
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-R,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 51294.4648
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-R
+
+(Variable containing:
+ 30563.8379
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,B-R
+
+(Variable containing:
+ 33051.8398
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,B-R
+
+(Variable containing:
+ 40689.3516
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-R
+
+(Variable containing:
+ 27866.4922
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 7, 8, 8, 8])
+.......
+O,O,O,O,B-R,O,O,O,O,O,O
+
+(Variable containing:
+ 22670.9805
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-R
+
+(Variable containing:
+ 43698.8945
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-R
+
+(Variable containing:
+ 38085.0391
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,B-R,O,O,O,O
+
+(Variable containing:
+ 40520.3477
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-R,O,O,O,O,O,O,O
+
+(Variable containing:
+ 17294.5781
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-R
+
+(Variable containing:
+ 30502.1172
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,B-R
+
+(Variable containing:
+ 30654.8711
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-R,O,O,O,O,O
+
+(Variable containing:
+ 43910.7031
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-R,O,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 51235.7188
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-R,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 14171.5479
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-R,O,O
+
+(Variable containing:
+ 30330.5898
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,B-R
+
+(Variable containing:
+ 57541.6406
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-R,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 49142.8086
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 7, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8])
+.......
+O,O,O,O,O,B-R,O,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 30900.5273
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,B-R
+
+(Variable containing:
+ 35846.5781
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,B-R
+
+(Variable containing:
+ 43531.6133
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-R,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 19603.5000
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-R,O,O
+
+(Variable containing:
+ 19183.3340
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-R
+
+(Variable containing:
+ 52071.8594
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-R,O,O,O,O
+
+(Variable containing:
+ 41384.7461
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-R,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 49619.3359
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-R
+
+(Variable containing:
+ 30134.1816
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-R,I-R,O,O,O
+
+(Variable containing:
+ 25640.9492
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-R,O,O,O,O,O,O
+
+(Variable containing:
+ 30678.3516
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-R,O,O,O
+
+(Variable containing:
+ 35484.2656
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-R,I-R,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 16874.7734
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-R,O,O,O,O,O
+
+(Variable containing:
+ 25000.8809
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-R,O,O,O,O,O
+
+(Variable containing:
+ 30659.4395
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-R,O,O,O,O,O,O
+
+(Variable containing:
+ 51404.0977
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-R,O,O,O
+
+(Variable containing:
+ 33466.4180
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-R,O,O,O,O,O,O
+
+(Variable containing:
+ 40726.1406
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,B-R,O,O
+
+(Variable containing:
+ 35625.7773
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,B-R,O,O
+
+(Variable containing:
+ 32728.2031
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-R,O,O,O,O,O,O,O
+
+(Variable containing:
+ 56182.9922
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-R,I-R,O,O
+
+(Variable containing:
+ 34011.2148
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 7, 8, 8, 8, 8])
+.......
+O,O,B-R,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 53061.0312
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-R,I-R,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 14958.3535
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0])
+.......
+B-R,O,O,O,O,O
+
+(Variable containing:
+ 51615.3477
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,B-R,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 24591.8613
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-R,O,O,O,O,O,O,O
+
+(Variable containing:
+ 32697.8945
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-R,O,O,O,O,O,O,O
+
+(Variable containing:
+ 16854.2363
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-R,I-R,O,O,O
+
+(Variable containing:
+ 19398.3398
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-R,O,O,O,O,O
+
+(Variable containing:
+ 38506.9102
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-R,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 49681
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-R,O,O,O,O
+
+(Variable containing:
+ 27486.5039
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-R,O,O,O
+
+(Variable containing:
+ 54589.7227
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,B-R,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 40271.4180
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-R,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 38597.1445
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,B-R,O,O,O,O,O
+
+(Variable containing:
+ 61895.7930
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-R,O,O
+
+(Variable containing:
+ 46975.0859
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-R,O,O
+
+(Variable containing:
+ 38223.9883
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,B-R,O,O
+
+(Variable containing:
+ 36039.6211
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-R,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 38207.7461
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 7, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8])
+.......
+O,O,O,O,O,O,O,B-R,O,O,O,O,O,O,O
+
+(Variable containing:
+ 25380.5371
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-R,O,O,O,O,O,O,O
+
+(Variable containing:
+ 41785.3008
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-R,I-R,O,O,O,O,O,O
+
+(Variable containing:
+ 35178.4922
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-R,I-R,O,O,O,O,O,O
+
+(Variable containing:
+ 32794.3828
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-R,I-R,O,O,O
+
+(Variable containing:
+ 24965.8438
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-R,I-R,O,O
+
+(Variable containing:
+ 38188.8047
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-R,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 43528.2070
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-R,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 17001.3223
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-R
+
+(Variable containing:
+ 20114.2578
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-R,O,O,O
+
+(Variable containing:
+ 40896.3203
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,B-R,O,O,O,O,O
+
+(Variable containing:
+ 35433.2539
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-R,I-R,O,O,O,O,O,O,O
+
+(Variable containing:
+ 25253.7363
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,B-R
+
+(Variable containing:
+ 35297.7344
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-R,I-R,O,O,O,O,O,O,O
+
+(Variable containing:
+ 27551.2383
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-R,O,O,O,O
+
+(Variable containing:
+ 25061.3906
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-R,I-R,I-R
+
+(Variable containing:
+ 33057.0547
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-R,O,O,O,O
+
+(Variable containing:
+ 17781.2031
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0])
+.......
+B-R,O,O,O,O,O,O
+
+(Variable containing:
+ 38700.2930
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-R
+
+(Variable containing:
+ 33421.9727
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-R,O,O,O,O,O
+
+(Variable containing:
+ 30463.8652
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-R,O,O,O,O,O,O
+
+(Variable containing:
+ 32910.1250
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-R,I-R,I-R,I-R,I-R,I-R,O,O,O,O
+
+(Variable containing:
+ 34786.2500
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,B-R,I-R,I-R
+
+(Variable containing:
+ 22785.2246
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-R
+
+(Variable containing:
+ 24769.9746
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-R,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 68187.7344
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-R,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 17568.8672
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-R,O,O
+
+(Variable containing:
+ 33226.2656
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-R,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 36011.5742
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-R,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 35759.0195
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,B-R,O,O
+
+(Variable containing:
+ 48780.1094
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-R,O,O,O,O
+
+(Variable containing:
+ 32972.7031
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-R,O,O,O,O
+
+(Variable containing:
+ 41076.5781
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-R,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 45622.9688
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-R,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 27748.8027
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,B-R
+
+(Variable containing:
+ 44529.6367
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 7, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-R
+
+(Variable containing:
+ 57098.6250
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-R,O
+
+(Variable containing:
+ 27660.6504
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-R,O,O,O,O,O
+
+(Variable containing:
+ 40595.9922
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,B-R,O,O,O,O,O
+
+(Variable containing:
+ 46161.8047
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,B-R,O,O,O,O,O,O
+
+(Variable containing:
+ 32828.3828
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,B-R,O,O
+
+(Variable containing:
+ 32876.4609
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-R,O,O,O,O
+
+(Variable containing:
+ 12042.8027
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-R
+
+(Variable containing:
+ 41088.6016
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-R,I-R,O,O,O,O,O,O
+
+(Variable containing:
+ 30567.3613
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-R,I-R,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 36026.6602
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-R,I-R,I-R,O,O,O,O,O,O
+
+(Variable containing:
+ 25015.7129
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-R,O,O
+
+(Variable containing:
+ 25418.7461
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-R,I-R,O,O
+
+(Variable containing:
+ 22102.4629
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-R,O,O
+
+(Variable containing:
+ 54008.8008
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-R,I-R,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 33082.4180
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-R,O,O,O,O
+
+(Variable containing:
+ 24988.8555
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-R,O,O,O,O,O,O,O
+
+(Variable containing:
+ 24840.0645
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-R,I-R,O,O,O
+
+(Variable containing:
+ 30052.0879
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-R,O,O,O,O
+
+(Variable containing:
+ 44295.3008
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 8, 8])
+.......
+O,O,O,O,O,B-R,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 27819.8457
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-R,O,O,O
+
+(Variable containing:
+ 33536.6211
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-R,O,O,O,O
+
+(Variable containing:
+ 17080.7441
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-R,O
+
+(Variable containing:
+ 27767.4258
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-R,O,O,O,O
+
+(Variable containing:
+ 25510.1133
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-R,I-R,I-R,O,O,O,O
+
+(Variable containing:
+ 27647.4297
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-R,I-R,O,O,O,O,O,O
+
+(Variable containing:
+ 46290.5586
+[torch.FloatTensor of size 1]
+, [7, 8, 8, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,B-R,O,O,O,O,O,O,O
+
+(Variable containing:
+ 25266.9414
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-R,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 41681.5938
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-R,O,O,O,O,O,O,O
+
+(Variable containing:
+ 27623.8828
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-R,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 40781.4609
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,B-R,O,O
+
+(Variable containing:
+ 32908.5938
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-R,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 68710.6953
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,B-R,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 46064.4570
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-R,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 38889.2305
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-R,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 25556.8477
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-R,O,O,O
+
+(Variable containing:
+ 38210.8203
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,B-R,O,O
+
+(Variable containing:
+ 24906.3945
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-R,I-R,O,O,O,O,O,O
+
+(Variable containing:
+ 27210.9297
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-R,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 21990.5840
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-R,O,O,O,O
+
+(Variable containing:
+ 67187.4297
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,B-R,O,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 40762.0547
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,B-R,O,O,O,O,O,O
+
+(Variable containing:
+ 27759.3730
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-R,O,O,O
+
+(Variable containing:
+ 41296.2891
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,B-R,O,O,O,O,O
+
+(Variable containing:
+ 52710.7461
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,B-R,I-R,O,O,O,O,O,O,O
+
+(Variable containing:
+ 30724.9492
+[torch.FloatTensor of size 1]
+, [7, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8])
+.......
+O,O,O,B-R,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 29988.7324
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 7, 8, 8, 8, 8, 8, 8, 8, 8])
+.......
+O,B-R,I-R,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 51119.4570
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,B-R,O,O,O,O,O,O
+
+(Variable containing:
+ 27998.8789
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-S,I-S,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 30407.0801
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 7, 8, 8, 8, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-S,O,O,O
+
+(Variable containing:
+ 17148.1680
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-S,I-S,O,O
+
+(Variable containing:
+ 16927.9688
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-S,I-S,O,O
+
+(Variable containing:
+ 17714.2129
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-S,O,O,O
+
+(Variable containing:
+ 11386.0322
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0])
+.......
+O,B-S,I-S,O,O
+
+(Variable containing:
+ 19635.0547
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-S,O,O,O,O,O,O
+
+(Variable containing:
+ 38369.0977
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-S,I-S,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 11783.1670
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0])
+.......
+O,O,B-R,O,O
+
+(Variable containing:
+ 14773.5215
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0])
+.......
+O,O,B-S,I-S,O,O
+
+(Variable containing:
+ 44509.2812
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,B-S,O,O,O,O,O,O
+
+(Variable containing:
+ 32970.6875
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-S,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 28173.7871
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-S,O,O,O
+
+(Variable containing:
+ 44003.9766
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-S,I-S,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 30090.9570
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-S,O,O,O
+
+(Variable containing:
+ 46567.8516
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,B-S,I-S,O,O,O,O,O,O,O
+
+(Variable containing:
+ 38697.6953
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-S,I-S,O,O,O,O,O
+
+(Variable containing:
+ 19747.1055
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-M,O
+
+(Variable containing:
+ 32849.3867
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-S,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 17169.1562
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-S,O,O,O,O,O
+
+(Variable containing:
+ 30475.9902
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-S,O,O,O
+
+(Variable containing:
+ 27603.4316
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-S,O,O,O
+
+(Variable containing:
+ 38409.5781
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 7, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8])
+.......
+O,O,O,O,O,O,O,O,O,B-S,I-S,O,O,O,O
+
+(Variable containing:
+ 22691.4961
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-S,O
+
+(Variable containing:
+ 33199.6953
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-S,I-S,O,O,O,O
+
+(Variable containing:
+ 22841.8711
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 7, 8, 8, 8, 8, 8])
+.......
+O,O,O,B-S,O,O,O,O,O
+
+(Variable containing:
+ 35608.2812
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-S,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 56055.3086
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,B-S,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 28192.5000
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 7, 8, 8, 8])
+.......
+O,B-S,I-S,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 45630.6758
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,B-S,I-S,O,O,O,O,O
+
+(Variable containing:
+ 38906.2695
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-S,I-S,O,O,O,O,O,O
+
+(Variable containing:
+ 36233.1758
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,B-S,I-S,I-S
+
+(Variable containing:
+ 30357.7441
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-S,O,O,O,O,O,O
+
+(Variable containing:
+ 25239.6016
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-S,O,O,O,O
+
+(Variable containing:
+ 51844.4766
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 7, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8])
+.......
+O,O,O,O,O,O,O,O,O,B-S,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 22362.8438
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-S,O,O,O,O,O,O,O
+
+(Variable containing:
+ 24901.4336
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-S,O,O,O,O
+
+(Variable containing:
+ 9304.3135
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0])
+.......
+O,O,B-S,O
+
+(Variable containing:
+ 20096.8027
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-S,O,O,O,O,O,O
+
+(Variable containing:
+ 20145.0254
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-S,O,O
+
+(Variable containing:
+ 22605.9297
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-S,O,O,O,O
+
+(Variable containing:
+ 38240.6797
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-S,I-S,O,O,O,O,O
+
+(Variable containing:
+ 20069.2715
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-S,I-S,O
+
+(Variable containing:
+ 22356.2871
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-S,O,O,O,O
+
+(Variable containing:
+ 32992.3906
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+B-S,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 33052.2227
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,B-S,I-S
+
+(Variable containing:
+ 19718.8066
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+B-S,I-S,I-S,I-S,I-S,O,O,O
+
+(Variable containing:
+ 51304.2539
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,B-S,I-S,I-S,O,O,O,O,O,O
+
+(Variable containing:
+ 30130.9551
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-S,O,O,O,O,O
+
+(Variable containing:
+ 27512.3242
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-S,I-S,I-S,O
+
+(Variable containing:
+ 27624.6250
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-S,I-S,I-S,I-S
+
+(Variable containing:
+ 45590.6172
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,B-S,I-S,I-S,I-S,O
+
+(Variable containing:
+ 19825.1973
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-S,I-S,I-S
+
+(Variable containing:
+ 30237.7695
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-S,I-S,I-S,I-S,O,O,O,O,O,O,O
+
+(Variable containing:
+ 43627.9805
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,B-S,I-S,I-S,I-S,O,O
+
+(Variable containing:
+ 33444.1914
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-S,I-S,O,O,O,O,O
+
+(Variable containing:
+ 49030.2266
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-S,I-S,I-S,I-S,O
+
+(Variable containing:
+ 25235.1777
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-S,I-S,I-S,I-S,I-S,I-S,I-S
+
+(Variable containing:
+ 14644.5762
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0])
+.......
+B-S,I-S,I-S,O,O,O
+
+(Variable containing:
+ 27817.8711
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-S,I-S,I-S,O,O,O,O,O
+
+(Variable containing:
+ 35380.0234
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-S,I-S,I-S,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 17157.2148
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0])
+.......
+B-S,I-S,O,O,O,O,O
+
+(Variable containing:
+ 22479.1660
+[torch.FloatTensor of size 1]
+, [7, 8, 8, 8, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-S,I-S
+
+(Variable containing:
+ 23093.4590
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-S,I-S,I-S,I-S
+
+(Variable containing:
+ 27735.0352
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-S,I-S,O,O,O,O
+
+(Variable containing:
+ 19313.1367
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-S,I-S
+
+(Variable containing:
+ 17125.2988
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-S
+
+(Variable containing:
+ 17223.7520
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-S
+
+(Variable containing:
+ 19191.3379
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-S,I-S
+
+(Variable containing:
+ 25043.0625
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-S,I-S
+
+(Variable containing:
+ 16895.0039
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-S,O
+
+(Variable containing:
+ 27715.0234
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-S,I-S,I-S,O,O
+
+(Variable containing:
+ 17402.8184
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-S,I-S,I-S,O,O,O
+
+(Variable containing:
+ 27985.0332
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-S,I-S,O,O,O,O,O
+
+(Variable containing:
+ 32880.5039
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,B-S,I-S,I-S,I-S
+
+(Variable containing:
+ 24721.1465
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-S,I-S,O,O,O
+
+(Variable containing:
+ 14308.8877
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-S
+
+(Variable containing:
+ 22272.7422
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-S,I-S
+
+(Variable containing:
+ 36329.1836
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,B-S,I-S
+
+(Variable containing:
+ 29774.7793
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,B-S
+
+(Variable containing:
+ 22251.1738
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-S,I-S
+
+(Variable containing:
+ 19965.4902
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-S,I-S,I-S
+
+(Variable containing:
+ 11639.3799
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0])
+.......
+O,O,B-S,O,O
+
+(Variable containing:
+ 27439.2910
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,B-S
+
+(Variable containing:
+ 17210.4238
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0])
+.......
+B-S,I-S,O,O,O,O,O
+
+(Variable containing:
+ 22731.9883
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-S
+
+(Variable containing:
+ 33442.4453
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-S,O,O,O,O,O,O,O
+
+(Variable containing:
+ 20163.4473
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-S,I-S,O,O,O,O,O
+
+(Variable containing:
+ 30652.0977
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-S,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 30259.2383
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-S,O,O,O,O,O,O
+
+(Variable containing:
+ 29952.2109
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-S,O,O,O,O,O,O,O
+
+(Variable containing:
+ 9137.0479
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0])
+.......
+B-S,I-S,O,O
+
+(Variable containing:
+ 41343.7031
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 8, 8, 8])
+.......
+O,O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,O,O,O,O,O
+
+(Variable containing:
+ 24916.1953
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-S,I-S,I-S,I-S,I-S,I-S
+
+(Variable containing:
+ 30404.1719
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,B-S,O,O
+
+(Variable containing:
+ 48174.7969
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-S,I-S,I-S,I-S,I-S,O,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 12016.0947
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0])
+.......
+O,B-S,I-S,O,O
+
+(Variable containing:
+ 30605.4199
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-S,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 35734.8984
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-S,I-S,I-S,I-S,I-S,I-S,I-S,I-S
+
+(Variable containing:
+ 22010.7500
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-S,I-S,I-S
+
+(Variable containing:
+ 22772.1719
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-S,I-S,I-S,I-S,I-S,I-S
+
+(Variable containing:
+ 22517.6816
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-S,I-S,I-S
+
+(Variable containing:
+ 32795.5273
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-R,O,O,O,O,O,O,O
+
+(Variable containing:
+ 19785.4805
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-S,I-S,I-S,I-S
+
+(Variable containing:
+ 22443.7227
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-S,I-S,I-S,O,O
+
+(Variable containing:
+ 21839.8105
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-S,I-S,I-S,I-S,I-S
+
+(Variable containing:
+ 17275.4648
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-S,I-S,I-S
+
+(Variable containing:
+ 25384.1895
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 14678.4043
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0])
+.......
+O,B-S,I-S,O,O,O
+
+(Variable containing:
+ 27502.3887
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-S,I-S,I-S,I-S,I-S,I-S,I-S
+
+(Variable containing:
+ 30743.2246
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-D,I-D,I-D,O,O,O,O,O,O,O
+
+(Variable containing:
+ 17311.6172
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-S,I-S,I-S,I-S,I-S
+
+(Variable containing:
+ 24742.6270
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-M,O,O,O,O,O
+
+(Variable containing:
+ 40743.4297
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-S,I-S,I-S,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 48935.4180
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-S,I-S,I-S,I-S,I-S,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 22573.1133
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+B-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,O
+
+(Variable containing:
+ 25143.1270
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-S,I-S,I-S,I-S
+
+(Variable containing:
+ 30758.8672
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-S,I-S,I-S,I-S,I-S
+
+(Variable containing:
+ 19834.6758
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-S,I-S,I-S,I-S,I-S
+
+(Variable containing:
+ 51332.9766
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,B-S,I-S,I-S,I-S,I-S,I-S,I-S,O,O,O,O
+
+(Variable containing:
+ 33191.0039
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+B-S,I-S,I-S,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 19730.7402
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-D,I-D,O
+
+(Variable containing:
+ 17192.1191
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-S,I-S,I-S,I-S
+
+(Variable containing:
+ 33269.9102
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-S,I-S,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 55395.5781
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-S,O,O,O,O,O
+
+(Variable containing:
+ 32640.3535
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,B-S
+
+(Variable containing:
+ 14656.5576
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0])
+.......
+B-S,I-S,O,O,O,O
+
+(Variable containing:
+ 27603.9824
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-S,I-S,O,O,O
+
+(Variable containing:
+ 48711.7578
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-S,I-S,I-S,I-S,I-S
+
+(Variable containing:
+ 22574.1641
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-S,I-S
+
+(Variable containing:
+ 30255.5957
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,B-S
+
+(Variable containing:
+ 30261.2949
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,B-R,O
+
+(Variable containing:
+ 16840.4648
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-S
+
+(Variable containing:
+ 22124.1992
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-S,I-S,O,O,O
+
+(Variable containing:
+ 25562.8281
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-S,I-S,I-S,O,O,O
+
+(Variable containing:
+ 22238.4512
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-S,O,O,O,O,O
+
+(Variable containing:
+ 22717.6035
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-M,O,O
+
+(Variable containing:
+ 27573.3945
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-S,O,O,O,O
+
+(Variable containing:
+ 49647.7227
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-S,I-S,I-S,O,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 20192.0801
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-S,I-S,O,O,O
+
+(Variable containing:
+ 46380.3828
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-S,I-S,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 19332.3145
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-S,I-S,O,O,O
+
+(Variable containing:
+ 22378.7910
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-S,I-S,I-S,O,O,O,O,O
+
+(Variable containing:
+ 22038.5332
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-S,I-S,I-S,O,O,O
+
+(Variable containing:
+ 9314.5166
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0])
+.......
+O,O,B-S,O
+
+(Variable containing:
+ 22763.9590
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+B-S,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 33139.8828
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-S,I-S,I-S,O,O,O,O,O,O
+
+(Variable containing:
+ 25088.5000
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-S,I-S,O
+
+(Variable containing:
+ 71807.9453
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-S,I-S,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 17255.9551
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-S,O,O,O,O
+
+(Variable containing:
+ 51767.4297
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-S,I-S,I-S,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 41259.3125
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-S,I-S,I-S,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 20010.2812
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-S,I-S
+
+(Variable containing:
+ 25084.9727
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-S,O,O,O,O,O
+
+(Variable containing:
+ 14063.6240
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0])
+.......
+O,B-S,I-S,O,O,O
+
+(Variable containing:
+ 14412.5234
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-S,I-S
+
+(Variable containing:
+ 14626.5420
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O
+
+(Variable containing:
+ 38119.0430
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-S,I-S,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 23000.3789
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+B-S,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 11795.0381
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0])
+.......
+O,B-S,O,O,O
+
+(Variable containing:
+ 17537.2617
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-S,I-S,I-S
+
+(Variable containing:
+ 36135.3008
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,B-S,O,O,O,O
+
+(Variable containing:
+ 20214.6426
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-S,O,O,O,O,O
+
+(Variable containing:
+ 27590.3203
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,B-S,I-S
+
+(Variable containing:
+ 22631.5742
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 27903.0762
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-M,O,O,O,O,O
+
+(Variable containing:
+ 36049.6328
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,B-S,O,O,O,O
+
+(Variable containing:
+ 27926.9180
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-S,O,O,O,O,O
+
+(Variable containing:
+ 25205.1660
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-S,O,O,O,O
+
+(Variable containing:
+ 40812.9297
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-S,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 19887.3691
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-S,O,O,O
+
+(Variable containing:
+ 25316.1191
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,B-S
+
+(Variable containing:
+ 22136.4141
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-S,I-S,O
+
+(Variable containing:
+ 14336.8486
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-S,I-S,O
+
+(Variable containing:
+ 35696.6875
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-M,O,O,O,O,O
+
+(Variable containing:
+ 35431.2812
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-S,I-S,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 25425.0762
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-S,I-S,O,O,O
+
+(Variable containing:
+ 16980.8945
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-S,I-S,O,O,O,O
+
+(Variable containing:
+ 19474.0781
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-M,O,O,O,O,O
+
+(Variable containing:
+ 14155.8604
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0])
+.......
+O,O,B-M,O,O,O
+
+(Variable containing:
+ 22705.4023
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-S,O,O,O,O,O,O,O
+
+(Variable containing:
+ 30471.8457
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-S,I-S,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 19699.7480
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-S,I-S,O,O,O,O,O
+
+(Variable containing:
+ 27498.8906
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-M,O,O
+
+(Variable containing:
+ 45840.6250
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-S,I-S,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 17464.3730
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-S,O,O,O
+
+(Variable containing:
+ 9391.5518
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0])
+.......
+O,O,B-R,O
+
+(Variable containing:
+ 17110.8301
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-S,I-S,I-S,O
+
+(Variable containing:
+ 32923.4609
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,B-S
+
+(Variable containing:
+ 11822.8750
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0])
+.......
+B-S,O,O,O,O
+
+(Variable containing:
+ 25131.7480
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+B-S,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 35284.9062
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-S,I-S,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 17452.3125
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0])
+.......
+B-S,O,O,O,O,O,O,O
+
+(Variable containing:
+ 14162.3418
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0])
+.......
+B-S,O,O,O,O,O
+
+(Variable containing:
+ 56729.9258
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-S,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 27808.3672
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+B-S,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 19803.4219
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+B-S,I-S,O,O,O,O,O,O,O
+
+(Variable containing:
+ 22145.0430
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+B-S,I-S,I-S,I-S,O,O,O,O,O
+
+(Variable containing:
+ 33223.1094
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-S,O,O,O,O,O
+
+(Variable containing:
+ 36576.1055
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-S,I-S,I-S,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 30047.1191
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+B-S,I-S,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 32599.2070
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,B-S,I-S,I-S
+
+(Variable containing:
+ 25019.1699
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-S,I-S,O,O,O,O,O,O,O
+
+(Variable containing:
+ 27928.3457
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-S,I-S,I-S,I-S,I-S,I-S,I-S
+
+(Variable containing:
+ 20421.1465
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-S,I-S,I-S,I-S,I-S
+
+(Variable containing:
+ 49095.3203
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 7, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8])
+.......
+O,O,O,O,O,B-S,O,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 45746.3203
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-S,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 27434.9688
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+B-S,I-S,I-S,I-S,I-S,I-S,I-S,O,O,O,O
+
+(Variable containing:
+ 27941.1680
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-M,O,O,O,O,O,O
+
+(Variable containing:
+ 38464.1289
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,B-S,O
+
+(Variable containing:
+ 46107.0117
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 8, 8, 8])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,B-S,I-S,O,O,O
+
+(Variable containing:
+ 43585.8906
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,B-S,O,O,O,O,O,O,O
+
+(Variable containing:
+ 17385.4238
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-S,O,O
+
+(Variable containing:
+ 25282.8672
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-S,O,O,O,O,O,O
+
+(Variable containing:
+ 51334.6172
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,B-S,I-S,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 41403.8555
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-M,O,O,O,O,O,O,O
+
+(Variable containing:
+ 27477.1699
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-S,O,O,O,O
+
+(Variable containing:
+ 28216.5098
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-S,I-S,O,O,O,O,O
+
+(Variable containing:
+ 22634.8711
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-S,O,O
+
+(Variable containing:
+ 27748.2949
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-S,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 17393.6719
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-S,O,O,O,O,O
+
+(Variable containing:
+ 19917.5293
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-S,O,O,O
+
+(Variable containing:
+ 41137.1719
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-S,I-S,I-S,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 14586.0654
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0])
+.......
+O,O,B-S,O,O,O
+
+(Variable containing:
+ 24893.1250
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-S,I-S,O,O
+
+(Variable containing:
+ 21712.8164
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-M,O,O,O,O,O,O
+
+(Variable containing:
+ 63091.5469
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+B-S,I-S,I-S,I-S,I-S,I-S,I-S,I-S,I-S,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 27157.1035
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-S,I-S,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 38125.3906
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-S,I-S,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 35527.3320
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-S,I-S,O,O,O,O,O,O
+
+(Variable containing:
+ 38626.1523
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-S,I-S,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 27689.3965
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,B-M,O
+
+(Variable containing:
+ 33445.0977
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,B-S,I-S,O,O
+
+(Variable containing:
+ 32414.1465
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,B-S,O,O,O
+
+(Variable containing:
+ 24981.0547
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-S,I-S
+
+(Variable containing:
+ 17153.8008
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-S,I-S,O,O
+
+(Variable containing:
+ 24862.4609
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+B-S,I-S,I-S,I-S,O,O,O,O,O,O
+
+(Variable containing:
+ 43957.8125
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-S,I-S,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 36176.1836
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-S,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 28148.9414
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-S,I-S,O,O,O,O,O
+
+(Variable containing:
+ 40831.8711
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,B-D,I-D,I-D,O,O,O,O
+
+(Variable containing:
+ 19625.4434
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+B-D,I-D,I-D,I-D,I-D,O,O,O
+
+(Variable containing:
+ 24764.6562
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+B-D,I-D,I-D,I-D,O,O,O,O,O,O
+
+(Variable containing:
+ 30537.1758
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+B-D,I-D,I-D,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 37951.1562
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-D,I-D,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 38640.7656
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 8, 8, 8])
+.......
+O,O,O,O,O,O,O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 51073.4883
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-D,I-D,I-D,I-D,I-D,I-D,O,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 23012.7168
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-D,I-D,I-D,O,O
+
+(Variable containing:
+ 48311.0547
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,B-D,I-D,O,O,O,O,O,O,O
+
+(Variable containing:
+ 33042.1094
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-D,I-D,O,O,O,O,O,O
+
+(Variable containing:
+ 37956.3516
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-D,I-D,I-D,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 25128.4863
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-D,I-D,I-D,O,O,O,O
+
+(Variable containing:
+ 30164.6934
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-D,I-D,I-D,I-D,I-D,O,O
+
+(Variable containing:
+ 43766.3984
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,B-D,I-D,I-D,I-D,O,O,O,O
+
+(Variable containing:
+ 36148.7852
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-D,I-D,I-D,I-D,O,O,O,O,O
+
+(Variable containing:
+ 49659.1289
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-D,I-D,I-D,I-D,I-D,O,O,O,O,O,O
+
+(Variable containing:
+ 24834.2285
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-D,I-D,I-D,I-D,I-D,O,O
+
+(Variable containing:
+ 27524.4395
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D,O
+
+(Variable containing:
+ 27967.4238
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 22809.6953
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 40594.9453
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-D,I-D,I-D,I-D,I-D,O,O,O,O,O,O,O
+
+(Variable containing:
+ 30502.1680
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 20048.9512
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-D,I-D,I-D,I-D
+
+(Variable containing:
+ 40445.7656
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+B-D,I-D,I-D,O,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 27624.4395
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-D,I-D,I-D,I-D
+
+(Variable containing:
+ 46623.0547
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,O,O,O
+
+(Variable containing:
+ 32842.3203
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 32416.4727
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 25223.9922
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-D,I-D,I-D,I-D,O,O
+
+(Variable containing:
+ 35791.4414
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 17144.6699
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 48954.7344
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 33430.3945
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 40774.4375
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 43360.0859
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 7, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8])
+.......
+O,O,O,O,O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 38263.8477
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+B-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,O,O
+
+(Variable containing:
+ 14637.1230
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0])
+.......
+B-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 38558.1836
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-D,I-D,I-D,I-D,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 19703.3184
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-D,I-D,I-D,I-D,I-D,O,O
+
+(Variable containing:
+ 25503.7422
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 36062.2539
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 30219.5664
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-D,I-D,I-D,I-D,I-D,I-D,O,O,O,O,O
+
+(Variable containing:
+ 22174.5605
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 35439.9219
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,B-D,I-D,I-D
+
+(Variable containing:
+ 36050.0195
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 19548.6797
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-D,I-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 35796.2930
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-D,I-D,I-D,I-D,O,O,O,O,O
+
+(Variable containing:
+ 25511.1504
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 7, 8, 8])
+.......
+O,O,O,O,O,O,O,B-D,I-D,I-D
+
+(Variable containing:
+ 36298.0078
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,B-D,I-D,I-D
+
+(Variable containing:
+ 49110.5586
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,B-D,I-D,I-D,O,O,O,O,O,O,O
+
+(Variable containing:
+ 25422.1797
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 45785.2188
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D,O,O,O,O,O,O
+
+(Variable containing:
+ 33535.2500
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D,O,O,O
+
+(Variable containing:
+ 35801.4883
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-D,I-D,I-D,I-D,I-D,O,O,O
+
+(Variable containing:
+ 14261.7227
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0])
+.......
+B-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 19239.3750
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-D,I-D,I-D,O,O,O,O
+
+(Variable containing:
+ 41012.9023
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 14396.6611
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-D,I-D,I-D
+
+(Variable containing:
+ 30426.6738
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 7, 8, 8, 8, 8, 8, 8, 8, 8])
+.......
+B-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,O,O,O,O
+
+(Variable containing:
+ 40309.9844
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D,O,O,O,O,O
+
+(Variable containing:
+ 11716.2393
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0])
+.......
+B-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 25101.0117
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 7, 8, 8, 8, 8, 8, 8])
+.......
+O,O,B-D,I-D,I-D,I-D,I-D,I-D,O,O
+
+(Variable containing:
+ 38537.0703
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 54112.5586
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,O,O,O,O,O
+
+(Variable containing:
+ 19974.5742
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-D,I-D,I-D,I-D
+
+(Variable containing:
+ 27907.3652
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 32815.6523
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,O,O
+
+(Variable containing:
+ 19078.6602
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 19828.2715
+[torch.FloatTensor of size 1]
+, [7, 8, 8, 8, 8, 0, 0, 0])
+.......
+O,O,B-D,I-D,O,O,O,O
+
+(Variable containing:
+ 46094.7109
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,B-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 38462.6758
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-D,I-D,I-D,I-D,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 43482.1992
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 17458.1348
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0])
+.......
+B-D,I-D,O,O,O,O,O
+
+(Variable containing:
+ 32926.5742
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+B-D,I-D,I-D,I-D,I-D,I-D,I-D,O,O,O,O,O,O
+
+(Variable containing:
+ 51580.9453
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 25232.0820
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+B-D,I-D,I-D,O,O,O,O,O,O,O
+
+(Variable containing:
+ 33044.9727
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 20018.1035
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-D,I-D,I-D,O,O,O
+
+(Variable containing:
+ 41253.0039
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,B-D,I-D,O,O,O,O,O
+
+(Variable containing:
+ 38176.5273
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 38291.1250
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-D,I-D,I-D,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 22131.3047
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-D,I-D,I-D,O,O
+
+(Variable containing:
+ 25105.5371
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-D,I-D,I-D,I-D,I-D,O,O,O
+
+(Variable containing:
+ 41719.7812
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D,O,O,O,O,O,O,O
+
+(Variable containing:
+ 35808.3750
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-D,I-D,I-D,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 32656.8789
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-D,I-D,I-D,O,O,O,O,O,O,O
+
+(Variable containing:
+ 35373.5938
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-D,I-D,I-D,O,O,O,O,O,O,O
+
+(Variable containing:
+ 40976.2422
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-D,I-D,I-D,I-D,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 16982.8848
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-D,I-D,O,O,O
+
+(Variable containing:
+ 27202.8438
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-D,I-D,I-D,I-D,O,O,O,O,O
+
+(Variable containing:
+ 35665.7734
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-D,I-D,I-D,O,O,O,O
+
+(Variable containing:
+ 19597.6465
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-D,I-D,O,O,O,O
+
+(Variable containing:
+ 27947.7070
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-D,I-D,I-D,I-D,I-D,O,O,O
+
+(Variable containing:
+ 25091.9590
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 7, 8, 8, 8, 8, 8])
+.......
+O,O,O,O,O,O,O,O,B-M,O
+
+(Variable containing:
+ 55383.5898
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+B-D,I-D,I-D,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 49329.3711
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,B-D,I-D,I-D,I-D,O,O,O,O,O
+
+(Variable containing:
+ 38691.8477
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,O,O,O
+
+(Variable containing:
+ 30308.1680
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-D,I-D,I-D,O,O,O,O
+
+(Variable containing:
+ 22437.4785
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-D,I-D,O,O,O
+
+(Variable containing:
+ 22386.8770
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+B-D,I-D,I-D,O,O,O,O,O,O
+
+(Variable containing:
+ 40807.1523
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 8, 8])
+.......
+O,O,O,B-D,I-D,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 17418.2422
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-D,I-D,I-D,O,O
+
+(Variable containing:
+ 59419.6523
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,O,O,O,O,O,O
+
+(Variable containing:
+ 27676.1152
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+B-D,I-D,I-D,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 22559.3574
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 7, 8, 8, 8, 8, 8])
+.......
+O,O,B-D,I-D,I-D,O,O,O,O
+
+(Variable containing:
+ 17163.4141
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0])
+.......
+B-D,I-D,I-D,I-D,O,O,O
+
+(Variable containing:
+ 19686.6758
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-D,I-D,I-D,O,O,O,O
+
+(Variable containing:
+ 48313.2695
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,B-D,I-D,I-D,I-D,O,O,O,O,O,O
+
+(Variable containing:
+ 16941.8594
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0])
+.......
+B-D,I-D,I-D,O,O,O,O
+
+(Variable containing:
+ 14238.4756
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0])
+.......
+B-D,I-D,I-D,I-D,O,O
+
+(Variable containing:
+ 22506.0566
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-D,I-D,I-D,I-D,O,O,O,O
+
+(Variable containing:
+ 30511.3203
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-D,I-D,I-D,I-D,I-D,O,O,O,O
+
+(Variable containing:
+ 30759.6016
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-D,I-D,I-D,I-D,I-D,O,O,O
+
+(Variable containing:
+ 25227.3105
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-D,I-D,I-D
+
+(Variable containing:
+ 27741.1113
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-D,I-D,O
+
+(Variable containing:
+ 24995.9434
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-D,I-D,I-D,I-D
+
+(Variable containing:
+ 27548.2832
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-D,I-D,I-D,O,O,O,O,O,O
+
+(Variable containing:
+ 25219.4707
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-D,I-D,I-D
+
+(Variable containing:
+ 22403.9336
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-D,I-D,I-D,I-D
+
+(Variable containing:
+ 33250.4492
+[torch.FloatTensor of size 1]
+, [7, 8, 8, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-D,I-D,I-D,O,O,O
+
+(Variable containing:
+ 35875.1914
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+B-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,O,O,O,O
+
+(Variable containing:
+ 28037.4688
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-D,I-D,O,O,O,O,O
+
+(Variable containing:
+ 27748.3789
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-D,I-D,I-D,O,O
+
+(Variable containing:
+ 19921.9512
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-D,I-D,I-D,I-D,O,O,O
+
+(Variable containing:
+ 38325.1641
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,O,O
+
+(Variable containing:
+ 25465.6387
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-D,I-D,O,O,O,O,O
+
+(Variable containing:
+ 27875.1934
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-D,I-D,I-D,I-D,I-D,O,O
+
+(Variable containing:
+ 30071.2363
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-D,I-D,I-D,I-D,O,O
+
+(Variable containing:
+ 22593.4980
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-D,I-D,I-D,O,O,O,O,O
+
+(Variable containing:
+ 65040.4297
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,O,O,O,O,O
+
+(Variable containing:
+ 19979.4609
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-D,I-D,O,O
+
+(Variable containing:
+ 27715.5039
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-D,I-D,I-D,O,O
+
+(Variable containing:
+ 35965.3125
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-D,I-D,I-D,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 59443.4766
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-D,I-D,I-D,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 44151.5234
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-D,I-D,I-D,I-D,I-D,O,O,O,O,O,O,O
+
+(Variable containing:
+ 32717.9805
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-D,I-D,I-D,I-D,O,O,O
+
+(Variable containing:
+ 22271.1484
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 38669.6367
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 17499.5957
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 7, 8, 8, 8])
+.......
+B-D,I-D,I-D,I-D,I-D,O,O
+
+(Variable containing:
+ 38370.6875
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-D,I-D,I-D,I-D,O,O,O
+
+(Variable containing:
+ 41641.9883
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 27511.2656
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 33325.8789
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 46566.6016
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-D,I-D,I-D,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 24723.4492
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 36099.1172
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 8, 8])
+.......
+O,O,B-D,I-D,I-D,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 41486.7109
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-D,I-D,I-D,I-D,I-D,O,O,O,O,O,O
+
+(Variable containing:
+ 22328.7520
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+B-D,I-D,I-D,I-D,I-D,I-D,O,O,O
+
+(Variable containing:
+ 47098.6055
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-D,I-D,I-D,I-D,I-D,O,O,O,O,O,O,O
+
+(Variable containing:
+ 35523.8516
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 22499.9902
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+B-D,I-D,I-D,I-D,I-D,I-D,O,O,O
+
+(Variable containing:
+ 25377.8594
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-D,I-D,I-D,I-D
+
+(Variable containing:
+ 32934.7969
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 24929.9727
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-D,I-D,I-D,O,O,O,O
+
+(Variable containing:
+ 25500.1875
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 28056.8691
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-D,I-D,I-D
+
+(Variable containing:
+ 22092.0879
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-D,I-D,O,O
+
+(Variable containing:
+ 46392.8086
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 20142.0801
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-D,I-D,I-D,I-D
+
+(Variable containing:
+ 27796.0332
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-D,I-D,I-D,I-D
+
+(Variable containing:
+ 32850.0664
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 43303.4922
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-D,I-D,I-D,I-D,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 30497.0762
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-D,I-D,I-D,O,O,O,O,O,O,O
+
+(Variable containing:
+ 38545.1914
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 38516.6914
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,B-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 46779.3125
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,B-D,I-D,O,O,O
+
+(Variable containing:
+ 19644.6172
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-D,I-D,I-D,O,O,O,O
+
+(Variable containing:
+ 25408.5332
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+B-D,I-D,I-D,I-D,I-D,O,O,O,O,O
+
+(Variable containing:
+ 25094.2207
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+B-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 43839.3398
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,B-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 22103.0977
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-S,I-S,O,O,O,O,O
+
+(Variable containing:
+ 22455.2324
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 48314.2773
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,O,O
+
+(Variable containing:
+ 22410.9688
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-D,I-D,I-D,O,O,O,O,O
+
+(Variable containing:
+ 24813.4629
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 7, 8, 8, 8, 8, 8, 8])
+.......
+O,O,O,O,O,B-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 27772.2266
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 37648.8047
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 32821.4141
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 25264.3867
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-D,I-D,I-D,O,O,O,O,O,O
+
+(Variable containing:
+ 22343.5508
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-D,I-D,I-D,I-D,O,O,O,O
+
+(Variable containing:
+ 19824.9941
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+B-D,I-D,I-D,I-D,I-D,I-D,O,O
+
+(Variable containing:
+ 32910.4570
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 30525.5625
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-S,I-S,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 27970.5371
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 27870.0137
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+B-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 16838.2598
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-D,I-D,I-D,I-D,I-D,O
+
+(Variable containing:
+ 35062.7578
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-S,I-S,I-S,I-S,I-S,I-S,O
+
+(Variable containing:
+ 24956.9570
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-D,I-D,I-D,O,O
+
+(Variable containing:
+ 16937.5488
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0])
+.......
+B-D,I-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 22873.9277
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+B-D,I-D,I-D,I-D,I-D,I-D,O,O,O
+
+(Variable containing:
+ 62458.5039
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,O,O,O,O,O
+
+(Variable containing:
+ 30712.8926
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 65075.3789
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-D,I-D,I-D,I-D,I-D,I-D,O,O
+
+(Variable containing:
+ 51873.0117
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D,O,O,O,O,O
+
+(Variable containing:
+ 38188.1133
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,O,O
+
+(Variable containing:
+ 38054.1562
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D,O,O,O,O,O
+
+(Variable containing:
+ 35705.6562
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 7, 8, 8, 8, 8, 8, 8, 8, 0, 0, 0])
+.......
+O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,O,O
+
+(Variable containing:
+ 46621.8398
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-D,I-D,I-D,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 56307.0273
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 38675.0742
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 40576.7344
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 24937.4453
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-D,I-D
+
+(Variable containing:
+ 45282.0742
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 33092.3945
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-D,I-D,I-D,I-D,O,O,O
+
+(Variable containing:
+ 16903.4590
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-D,I-D,I-D,I-D
+
+(Variable containing:
+ 38021.3750
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-D,I-D,I-D,I-D,O,O,O,O
+
+(Variable containing:
+ 32939.7812
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 46608.8672
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-D,I-D,I-D,I-D,I-D,I-D,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 33300.4141
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 22464
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-D,I-D,I-D,O,O,O,O
+
+(Variable containing:
+ 22317.1035
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 35697.4102
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 38437.7695
+[torch.FloatTensor of size 1]
+, [7, 8, 8, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-D,I-D,I-D,I-D,O,O,O,O,O
+
+(Variable containing:
+ 14415.7754
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0])
+.......
+B-D,I-D,I-D,I-D,O,O
+
+(Variable containing:
+ 24606.7441
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-D,I-D,O,O,O,O,O
+
+(Variable containing:
+ 64603.3672
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+B-D,I-D,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 38533.0039
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+B-D,I-D,I-D,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 30528.1465
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+B-D,I-D,I-D,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 29976.9922
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+B-D,I-D,I-D,I-D,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 62492.4336
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,B-D,I-D,I-D,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 19913.9570
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-D,I-D,I-D,O,O,O
+
+(Variable containing:
+ 22248.2988
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-D,I-D,I-D,I-D,I-D,O,O,O
+
+(Variable containing:
+ 35547.8047
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-D,I-D,I-D,I-D,I-D,I-D,O,O,O,O,O
+
+(Variable containing:
+ 30804.9785
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D,O,O,O
+
+(Variable containing:
+ 27917.9648
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-D,I-D,O,O,O,O,O,O,O
+
+(Variable containing:
+ 33753.3906
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-D,I-D,I-D,O,O,O,O,O
+
+(Variable containing:
+ 49143.9766
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-D,I-D,I-D,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 29919.3164
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-D,I-D,O,O,O,O,O,O
+
+(Variable containing:
+ 59265.4453
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-D,I-D,I-D,I-D,I-D,O,O
+
+(Variable containing:
+ 24739.4902
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+B-D,I-D,I-D,O,O,O,O,O,O,O
+
+(Variable containing:
+ 32819.2109
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+B-D,I-D,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 41351.7773
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-D,I-D,I-D,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 49217.1055
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,B-D,I-D,I-D,O,O,O,O,O
+
+(Variable containing:
+ 43817.8320
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+B-D,I-D,I-D,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 35586.4531
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+B-D,I-D,I-D,I-D,I-D,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 25410.4355
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+B-D,I-D,I-D,I-D,O,O,O,O,O,O
+
+(Variable containing:
+ 59650.0742
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,B-D,I-D,I-D,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 46115.1836
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-D,I-D,I-D,I-D,I-D,I-D,O,O,O,O
+
+(Variable containing:
+ 40850.4375
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+B-D,I-D,I-D,O,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 44122.2852
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+B-D,I-D,I-D,I-D,I-D,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 38985.4883
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+B-D,I-D,I-D,O,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 40727.2617
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,B-D,I-D,I-D,I-D,I-D,O
+
+(Variable containing:
+ 40627.4492
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+B-D,I-D,I-D,I-D,I-D,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 24515.9512
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-D,I-D,I-D,O,O,O,O,O
+
+(Variable containing:
+ 38311.6406
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+B-D,I-D,I-D,I-D,O,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 40768.3906
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,B-D,I-D,I-D,I-D,I-D,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 53806.3516
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-D,I-D,I-D,O,O,O,O
+
+(Variable containing:
+ 27943.3027
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+B-D,I-D,I-D,I-D,I-D,I-D,I-D,O,O,O,O
+
+(Variable containing:
+ 30082.7676
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,B-D,I-D,I-D,O,O,O,O,O
+
+(Variable containing:
+ 48819.2383
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,O,O,O,O
+
+(Variable containing:
+ 49853.2422
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D,O,O,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 79472.9766
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,O,O
+
+(Variable containing:
+ 16990.0469
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-D,I-D,I-D,I-D
+
+(Variable containing:
+ 25167.5527
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-D,I-D,I-D,I-D,I-D,O,O
+
+(Variable containing:
+ 33057.1719
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,B-D,I-D,I-D,O,O,O,O,O
+
+(Variable containing:
+ 27601.6738
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+B-D,I-D,I-D,I-D,I-D,I-D,I-D,O,O,O,O
+
+(Variable containing:
+ 44412.6875
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 8, 8])
+.......
+O,O,O,O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 35689.3633
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,O,O,O,O
+
+(Variable containing:
+ 40784.0625
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,B-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 38493.5586
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+B-D,I-D,I-D,I-D,I-D,I-D,I-D,O,O,O,O,O,O,O,O
+
+(Variable containing:
+ 35684.7734
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,B-D,I-D,I-D,I-D,O,O,O,O,O,O,O
+
+(Variable containing:
+ 43064.0312
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D
+
+(Variable containing:
+ 61868.9922
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,O,O,O,O,B-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,I-D,O,O,O
+
+(Variable containing:
+ 33549.9492
+[torch.FloatTensor of size 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+.......
+O,O,O,O,O,O,O,O,B-D,I-D,I-D,I-D,I-D
+41
+1000
+0.041
